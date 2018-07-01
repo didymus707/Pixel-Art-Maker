@@ -1,14 +1,18 @@
 body {
     text-align: center;
+    background-color: teal;
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: Monotype corsiva;
+    background-color: white;
     font-size: 70px;
     margin: 0.2em;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 h2 {
+    font-family: Monotype corsiva;
     margin: 1em 0 0.25em;
 }
 
